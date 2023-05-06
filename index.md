@@ -140,14 +140,18 @@ Assignments can be submitted as PDF, DOC, DOCX, or plain text form.
 
 | File(s)      | Due Date            |                     |
 |:-------------|:--------------------|:--------------------|
-| [Assignment 1]()| Section 60 & 61: Feb 1 |Section 62: Feb 2 |
-| [Assignment 2]()| Section 60 & 61: Feb 15 |Section 62: Feb 16 |
-| [Assignment 3]()| Section 60 & 61: Mar 1 |Section 62: Mar 2 |
-| [Assignment 4]()| Section 60 & 61: Mar 29 |Section 62: Mar 30 |
-| [Assignment 5]()| Section 60 & 61: Apr 19 |Section 62: Apr 20|
-| [Assignment 6]()| Section 60 & 61: Mar 1 |Section 62: Mar 2 |
-| [Assignment 7]()| Section 60 & 61: Mar 29 |Section 62: Mar 30 |
+| [Assignment 1]()| Section 60 & 61: May 15 |Section 62: May 18 |
+| [Assignment 2]()| Section 60 & 61: May 29 |Section 62: Jun 01 |
+| [Assignment 3]()| Section 60 & 61: Jun 12 |Section 62: Jun 15 |
+| [Assignment 4]()| Section 60 & 61: Jun 26 |Section 62: Jun 29 |
+| [Assignment 5]()| Section 60 & 61: Jul 10 |Section 62: Jul 13 |
+| [Assignment 6]()| Section 60 & 61: Jul 24 |Section 62: Jul 27 |
+| [Assignment 7]()| Section 60 & 61: Aug 07 |Section 62: Aug 10 |
 
 ### Final Project Materials
 * [Final Project Expectations - PLACEHOLDER]() 
-* [Final Project Rubrics- PLACEHOLDER](./final-project/Final Project Grader Report.pdf) - final products due All Sections: May 1, 2023 (by midnight Pacific Time)
+* [Final Project Rubrics- PLACEHOLDER](./final-project/Final Project Grader Report.pdf)
+
+**Final Presentations will be in class on Aug 7th (sections 60 & 61) and Aug 10th (section 62).**
+
+**Final Papers will be due within 24 hours of Presentations**
