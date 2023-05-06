@@ -138,6 +138,8 @@ Each assignment should be uploaded to the LMS _before_ we meet for live session 
 
 Assignments can be submitted as PDF, DOC, DOCX, or plain text form. 
 
+[SPECIFIC REQUIREMENTS FORTHCOMING]
+
 | File(s)      | Due Date            |                     |
 |:-------------|:--------------------|:--------------------|
 | [Assignment 1]()| Section 60 & 61: May 15 |Section 62: May 18 |
@@ -148,9 +150,10 @@ Assignments can be submitted as PDF, DOC, DOCX, or plain text form.
 | [Assignment 6]()| Section 60 & 61: Jul 24 |Section 62: Jul 27 |
 | [Assignment 7]()| Section 60 & 61: Aug 07 |Section 62: Aug 10 |
 
+
 ### Final Project Materials
 * [Final Project Expectations - PLACEHOLDER]() 
-* [Final Project Rubrics- PLACEHOLDER](./final-project/Final Project Grader Report.pdf)
+* [Final Project Rubrics- PLACEHOLDER]()
 
 **Final Presentations will be in class on Aug 7th (sections 60 & 61) and Aug 10th (section 62).**
 
