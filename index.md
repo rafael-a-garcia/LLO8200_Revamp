@@ -1,0 +1,153 @@
+---
+title: "LLO8200 Homepage"
+---
+## Data Science (LLO8200)
+This is the course website for LLO 8200, Introduction to Data Science. This site serves as the content hub for this class. Make sure you bookmark and check this page frequently for the most up-to-date files. Over the course of the term files may be optimized or corrected. I will upload updated files here when that happens. 
+
+You are responsible for reviewing and ensuring you are following the schedule included in this semester's syllabus. The most up-to-date syllabus can always be found here and I will update the date when changes are made: [Syllabus Summer 2023 May 05 Updated](./Garcia_LLO8200_syllabus_Summer2023.pdf). 
+
+If you want to set up email alerts for updates/additions to this site, you can use the free version of a third-party program: [Distill](https://distill.io/). The free version will check for updates every six hours and send you alerts. Note: this is a platform that is not owned by Vanderbilt or me and you should review their data privacy and security to ensure you are comfortable with their practices.
+
+### Modules 
+We will cover one module each week. YouTube Playlists will serve as your go-to for Async content to be viewed before the corresponding week's class (with the exception being the first week). For example, the playlist for Week 2 should be reviewed before your scheduled class during Week 2. This will ensure students have some familiarity with topics discussed and elaborated on during that week's synchronous session.      
+
+  
+Week 01 - What's the Problem?/Introductions 
+* Readings: Gutman and Goldmeier - [Ch. 1](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=45)
+* Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8hR2ZZiHHmXtLF6Wt5qIMDp)
+	* Slides: [01a - Intro](./slides/01a - Intro.pdf); [01b - Outline](./slides/01b - Outline.pdf); [01c - Key Problems](./slides/01c - Key Problems.pdf)
+	* Transcripts: [01a - Intro](./transcripts/01a - Intro - cc.pdf); [01b - Outline](./transcripts/01b - Outline - cc.pdf); [01c - Key Problems](./transcripts/01c - Key Problems - cc.pdf)
+* Synchronous: No relevant documents
+
+Week 02 - What is data, anyway?/Review of applied statistics [FORTHCOMING]
+
+ {% comment %} 
+* Readings: Gutman and Goldmeier - Ch. 2
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: 
+* Due: Reflection 1; Assignment 1
+
+
+
+Week 03 - How to think statistically/Error
+* Readings: Gutman and Goldmeier - Ch. 3
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: No relevant documents
+* Due: Reflection 2
+
+Week 04 - Arguing with the data/Critical multiplism
+* Readings: Gutman and Goldmeier - Ch. 4; [Shadish 1993 (pg 18-35; starting on PDF pg 6)](./readings/Shadish 1993.pdf)
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: No relevant documents
+* Due: Reflection 3; Assignment 2
+
+Week 05 - Measurement
+* Readings: HBR Guide - Chs. 4 and 6
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: No relevant documents
+* Due: Reflection 4
+
+Week 06 - Surveys
+* Readings: 
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: No relevant documents
+* Due: Reflection 5; Assignment 3
+
+Week 07 - Explore the data
+* Readings: Gutman and Goldmeier - Ch. 5
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: No relevant documents
+* Due: Reflection 6
+
+Week 08 - Challenge the statistics/Ethics and pragmatism
+* Readings: Gutman and Goldmeier - Ch. 7
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: No relevant documents
+* Due: Reflection 7; Assignment 4
+
+Week 09 - Finding hidden groups/Categorization and item reduction
+* Readings: Gutman and Goldmeier - Ch. 8
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: No relevant documents
+* Due: Reflection 8
+
+Week 10 - Regression/Linear regression
+* Readings: Gutman and Goldmeier - Ch. 9; HBR Guide - Ch. 10
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: No relevant documents
+* Due: Reflection 9; Assignment 5
+
+Week 11 - Classification/Logistic regression
+* Readings: Gutman and Goldmeier - Ch. 10
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: No relevant documents
+* Due: Reflection 10
+
+Week 12 - Deep learning
+* Readings: Gutman and Goldmeier - Ch. 12; [Wolfram, S. (2023)]()
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: No relevant documents
+* Due: Reflection 11; Assignment 6
+
+Week 13 - Pitfalls
+* Readings: Gutman and Goldmeier - Chs. 13 and 14
+* Asynchronous: [Playlist](./)
+	* [Slides](./)
+	* [Transcripts](./)
+* Synchronous: No relevant documents
+* Due: Reflection 12
+
+Week 14 - Final Presentations
+* Due: Reflection 11; Assignment 7
+
+
+
+{% endcomment %}
+
+### Datasets for the Final Project     
+[Datasets will be finalized by May 8]
+{% comment %}
+[All data files](./datasets/datasets_files.zip)\
+{% endcomment %}
+<!--- These need to be added to the dataset repository next term --->
+
+### Assignments
+Each assignment should be uploaded to the LMS _before_ we meet for live session on the given due date. Even though assignments will be done as a group, everyone will need to submit their own assignment.
+
+Assignments can be submitted as PDF, DOC, DOCX, or plain text form. 
+
+| File(s)      | Due Date            |                     |
+|:-------------|:--------------------|:--------------------|
+| [Assignment 1]()| Section 60 & 61: Feb 1 |Section 62: Feb 2 |
+| [Assignment 2]()| Section 60 & 61: Feb 15 |Section 62: Feb 16 |
+| [Assignment 3]()| Section 60 & 61: Mar 1 |Section 62: Mar 2 |
+| [Assignment 4]()| Section 60 & 61: Mar 29 |Section 62: Mar 30 |
+| [Assignment 5]()| Section 60 & 61: Apr 19 |Section 62: Apr 20|
+| [Assignment 6]()| Section 60 & 61: Mar 1 |Section 62: Mar 2 |
+| [Assignment 7]()| Section 60 & 61: Mar 29 |Section 62: Mar 30 |
+
+### Final Project Materials
+* [Final Project Expectations - PLACEHOLDER]() 
+* [Final Project Rubrics- PLACEHOLDER](./final-project/Final Project Grader Report.pdf) - final products due All Sections: May 1, 2023 (by midnight Pacific Time)
