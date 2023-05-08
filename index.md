@@ -142,7 +142,7 @@ Assignments can be submitted as PDF, DOC, DOCX, or plain text form.
 
 | File(s)      | Due Date            |                     |
 |:-------------|:--------------------|:--------------------|
-| [Assignment 1]()| Section 60 & 61: May 15 |Section 62: May 18 |
+| [Assignment 1](./assignments/A1.txt)| Section 60 & 61: May 15 |Section 62: May 18 |
 | [Assignment 2]()| Section 60 & 61: May 29 |Section 62: Jun 01 |
 | [Assignment 3]()| Section 60 & 61: Jun 12 |Section 62: Jun 15 |
 | [Assignment 4]()| Section 60 & 61: Jun 26 |Section 62: Jun 29 |
