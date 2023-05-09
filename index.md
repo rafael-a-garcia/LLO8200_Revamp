@@ -127,7 +127,11 @@ Week 14 - Final Presentations
 {% endcomment %}
 
 ### Datasets for the Final Project     
-[Datasets will be finalized by May 8]
+[Attrition - simulated employee attrition](./data/Attrition.zip)
+[Carvana - data on "lemons" from Carvana](./data/Carvana.zip)
+[Framingham - data on cardiovascular disease](./framingham.zip)
+[IPEDS - institutional variables in post secondary eduction](./data/IPEDs.zip)
+
 {% comment %}
 [All data files](./datasets/datasets_files.zip)\
 {% endcomment %}
