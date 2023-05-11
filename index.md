@@ -19,103 +19,105 @@ Week 01 - What's the Problem?/Introductions
 	* Transcripts: [01a - Intro](./transcripts/01a - Intro - cc.pdf); [01b - Outline](./transcripts/01b - Outline - cc.pdf); [01c - Key Problems](./transcripts/01c - Key Problems - cc.pdf)
 * Synchronous: No relevant documents
 
-Week 02 - What is data, anyway?/Review of applied statistics [FORTHCOMING]
-
- {% comment %} 
-* Readings: Gutman and Goldmeier - Ch. 2
-* Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
-* Synchronous: 
+Week 02 - What is data, anyway?/Review of applied statistics 
+* Readings: Gutman and Goldmeier - [Ch. 2](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=55)
 * Due: Reflection 1; Assignment 1
+
+[REMAINDER FORTHCOMING]
+ {% comment %} 
+ * Asynchronous: [Playlist](./)
+	* Slides: [02a - Variable classification](./slides/02a - Variable classification.pdf); [02b - Summary Stats](./slides/02b - Summary Stats.pdf); [](./slides/)
+	* Transcripts: [02a - Variable classification](./transcripts/02a - Variable classification - cc.pdf); [02b - Summary Stats](./transcripts/02b - Summary Stats - cc.pdf); [](./transcripts/)
+* Synchronous: 
+
 
 
 
 Week 03 - How to think statistically/Error
-* Readings: Gutman and Goldmeier - Ch. 3
+* Readings: Gutman and Goldmeier - [Ch. 3](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=63)
 * Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 2
 
 Week 04 - Arguing with the data/Critical multiplism
-* Readings: Gutman and Goldmeier - Ch. 4; [Shadish 1993 (pg 18-35; starting on PDF pg 6)](./readings/Shadish 1993.pdf)
+* Readings: Gutman and Goldmeier - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=79); [Shadish 1993 (pg 18-35; starting on PDF pg 6)](./readings/Shadish 1993.pdf)
 * Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 3; Assignment 2
 
 Week 05 - Measurement
-* Readings: HBR Guide - Chs. 4 and 6
+* Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62)
 * Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 4
 
 Week 06 - Surveys
 * Readings: 
 * Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 5; Assignment 3
 
 Week 07 - Explore the data
-* Readings: Gutman and Goldmeier - Ch. 5
+* Readings: Gutman and Goldmeier - [Ch. 5](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=93)
 * Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 6
 
 Week 08 - Challenge the statistics/Ethics and pragmatism
-* Readings: Gutman and Goldmeier - Ch. 7
+* Readings: Gutman and Goldmeier - [Ch. 7](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=125)
 * Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 7; Assignment 4
 
 Week 09 - Finding hidden groups/Categorization and item reduction
-* Readings: Gutman and Goldmeier - Ch. 8
+* Readings: Gutman and Goldmeier - [Ch. 8](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=143)
 * Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 8
 
 Week 10 - Regression/Linear regression
-* Readings: Gutman and Goldmeier - Ch. 9; HBR Guide - Ch. 10
+* Readings: Gutman and Goldmeier - [Ch. 9](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=159); HBR Guide - [Ch. 10](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=98)
 * Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 9; Assignment 5
 
 Week 11 - Classification/Logistic regression
-* Readings: Gutman and Goldmeier - Ch. 10
+* Readings: Gutman and Goldmeier - [Ch. 10](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=175)
 * Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 10
 
 Week 12 - Deep learning
-* Readings: Gutman and Goldmeier - Ch. 12; [Wolfram, S. (2023)]()
+* Readings: Gutman and Goldmeier - [Ch. 12](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=213); [Wolfram, S. (2023)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 * Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 11; Assignment 6
 
 Week 13 - Pitfalls
-* Readings: Gutman and Goldmeier - Chs. 13 and 14
+* Readings: Gutman and Goldmeier - [Ch. 13](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=235) and [Ch. 14](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=245)
 * Asynchronous: [Playlist](./)
-	* [Slides](./)
-	* [Transcripts](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 12
 
