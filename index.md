@@ -27,24 +27,23 @@ Week 02 - What is data, anyway?/Review of applied statistics
 * Synchronous: Be prepared to work in Excel with XLMiner Toolpak
 * Due: Reflection 1; Assignment 1
 
-
- {% comment %} 
 Week 03 - How to think statistically/Error
 * Readings: Gutman and Goldmeier - [Ch. 3](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=63)
-* Asynchronous: [Playlist](./)
-	* Slides: [](./slides/)
-	* Transcripts: [](./transcripts/)
-* Synchronous: No relevant documents
+* Asynchronous: [Playlist - 2 videos still forthcoming](https://youtube.com/playlist?list=PLgM_PEP2Xv8hARGnsHdHl1kNhsycPgY6n)
+	* Slides: [03a - Thinking Statistically](./slides/03a - Thinking Statistically.pdf); [03b PLACEHOLDER](./slides/.pdf); [03c PLACEHOLDER](./slides/.pdf)
+	* Transcripts: [03a - PLACEHOLDER](./transcripts/.pdf); [03b - PLACEHOLDER](./transcripts/.pdf); [03b - PLACEHOLDER](./transcripts/.pdf); 
+* Synchronous: TBD
 * Due: Reflection 2
 
 Week 04 - Arguing with the data/Critical multiplism
 * Readings: Gutman and Goldmeier - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=79); [Shadish 1993 (pg 18-35; starting on PDF pg 6)](./readings/Shadish 1993.pdf)
-* Asynchronous: [Playlist](./)
-	* Slides: [](./slides/)
-	* Transcripts: [](./transcripts/)
-* Synchronous: No relevant documents
+* Asynchronous: [Playlist PLACEHOLDER](./)
+	* Slides: [PLACEHOLDER](./slides/)
+	* Transcripts: [PLACEHOLDER](./transcripts/)
+* Synchronous: TBD
 * Due: Reflection 3; Assignment 2
 
+ {% comment %} 
 Week 05 - Measurement
 * Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62)
 * Asynchronous: [Playlist](./)
@@ -148,8 +147,8 @@ Assignments can be submitted as PDF, DOC, DOCX, or plain text form.
 | File(s)      | Due Date            |                     |
 |:-------------|:--------------------|:--------------------|
 | [Assignment 1](./assignments/A1.txt)| Section 60 & 61: May 15 |Section 62: May 18 |
-| [Assignment 2]()| Section 60 & 61: May 29 |Section 62: Jun 01 |
-| [Assignment 3]()| Section 60 & 61: Jun 12 |Section 62: Jun 15 |
+| [Assignment 2](./assignments/A2.txt)| Section 60 & 61: May 29 |Section 62: Jun 01 |
+| [Assignment 3](./assignments/A3.txt)| Section 60 & 61: Jun 12 |Section 62: Jun 15 |
 | [Assignment 4]()| Section 60 & 61: Jun 26 |Section 62: Jun 29 |
 | [Assignment 5]()| Section 60 & 61: Jul 10 |Section 62: Jul 13 |
 | [Assignment 6]()| Section 60 & 61: Jul 24 |Section 62: Jul 27 |

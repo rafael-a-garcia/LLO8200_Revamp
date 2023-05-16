@@ -1,0 +1,8 @@
+Assignment 3: These should be no longer than a page in length (minimum 250 words, minus these instructions).
+
+Identify the variables and measures – 
+	1. Using the previous assignment as a jumping off point, identify what variable are available in the dataset and how they might be used to address the problem/question. For each variable, the TYPE and SCALE OF MEASUREMENT should be noted. Are you using any proxies? If so, which ones and what are they stand-ins for? 
+
+	2. Identify any variables relevant to your problem/question that you believe are missing from the data set. Why do you think so? If these data were provided from your organization, how might you get ahold of those data?
+
+Assignments can be submitted as PDF, DOC, DOCX, or plain text form via 2VU.
