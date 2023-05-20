@@ -21,7 +21,7 @@ Week 01 - What's the Problem?/Introductions
 
 Week 02 - What is data, anyway?/Review of applied statistics 
 * Readings: Gutman and Goldmeier - [Ch. 2](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=55)
- * Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8grimiMTKAsl3xGcMJBrbVV)
+* Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8grimiMTKAsl3xGcMJBrbVV)
 	* Slides: [02a - Variable classification](./slides/02a - Variable classification.pdf); [02b - Summary Stats](./slides/02b - Summary Stats.pdf); [02c - Beyond summary](./slides/02c - Beyond summary.pdf)
 	* Transcripts: [02a - Variable classification](./transcripts/02a - Variable classification - cc.pdf); [02b - Summary Stats](./transcripts/02b - Summary Stats - cc.pdf); [02c - Beyond summary](./transcripts/02c - Beyond summary - cc.pdf)
 * Synchronous: Be prepared to work in Excel with XLMiner Toolpak
@@ -30,8 +30,8 @@ Week 02 - What is data, anyway?/Review of applied statistics
 Week 03 - How to think statistically/Error
 * Readings: Gutman and Goldmeier - [Ch. 3](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=63)
 * Asynchronous: [Playlist - 2 videos still forthcoming](https://youtube.com/playlist?list=PLgM_PEP2Xv8hARGnsHdHl1kNhsycPgY6n)
-	* Slides: [03a - Thinking Statistically](./slides/03a - Thinking Statistically.pdf); [03b PLACEHOLDER](./slides/.pdf); [03c PLACEHOLDER](./slides/.pdf)
-	* Transcripts: [03a - PLACEHOLDER](./transcripts/.pdf); [03b - PLACEHOLDER](./transcripts/.pdf); [03b - PLACEHOLDER](./transcripts/.pdf); 
+	* Slides: [03a - Thinking Statistically](./slides/03a - Thinking Statistically.pdf); [03b - Descriptive Studies](./slides/.pdf) and [03b Paper](./readings/Cataldi et al 2018.pdf); [03c PLACEHOLDER](./slides/.pdf)
+	* Transcripts: [03a - PLACEHOLDER](./transcripts/.pdf); [03b - PLACEHOLDER](./transcripts/.pdf); [03b - PLACEHOLDER](./transcripts/.pdf)
 * Synchronous: TBD
 * Due: Reflection 2
 
