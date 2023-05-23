@@ -30,7 +30,7 @@ Week 02 - What is data, anyway?/Review of applied statistics
 Week 03 - How to think statistically/Error
 * Readings: Gutman and Goldmeier - [Ch. 3](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=63)
 * Asynchronous: [Playlist - 2 videos still forthcoming](https://youtube.com/playlist?list=PLgM_PEP2Xv8hARGnsHdHl1kNhsycPgY6n)
-	* Slides: [03a - Thinking Statistically](./slides/03a - Thinking Statistically.pdf); [03b - Descriptive Studies](./slides/.pdf) and [03b Paper](./readings/Cataldi et al 2018.pdf); [03c PLACEHOLDER](./slides/.pdf)
+	* Slides: [03a - Thinking Statistically](./slides/03a - Thinking Statistically.pdf); [03b - Descriptive Studies PLACEHOLDER](./slides/.pdf) and [03b Paper](./readings/Cataldi et al 2018.pdf); [03c PLACEHOLDER](./slides/.pdf)
 	* Transcripts: [03a - PLACEHOLDER](./transcripts/.pdf); [03b - PLACEHOLDER](./transcripts/.pdf); [03b - PLACEHOLDER](./transcripts/.pdf)
 * Synchronous: TBD
 * Due: Reflection 2
