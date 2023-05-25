@@ -35,89 +35,92 @@ Week 03 - How to think statistically/Error
 * Synchronous: TBD
 * Due: Reflection 2
 
-Week 04 - Arguing with the data/Critical multiplism
+Week 04 - Memorial Day/Independent Readings
+* Readings: [Stat-Spotting pg 28-72](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=1375428&ppg=28); [Unobtrusive Measures Ch 1 Excerpt](./readings/Unobtrusive Measures Ch1.pdf)
+* Due: Reflection 3; Assignment 2
+
+Week 05 - Arguing with the data/Critical multiplism
 * Readings: Gutman and Goldmeier - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=79); [Shadish 1993 (pg 18-35; starting on PDF pg 6)](./readings/Shadish 1993.pdf)
 * Asynchronous: [Playlist PLACEHOLDER](./)
 	* Slides: [PLACEHOLDER](./slides/)
 	* Transcripts: [PLACEHOLDER](./transcripts/)
 * Synchronous: TBD
-* Due: Reflection 3; Assignment 2
-
- {% comment %} 
-Week 05 - Measurement
-* Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62)
-* Asynchronous: [Playlist](./)
-	* Slides: [](./slides/)
-	* Transcripts: [](./transcripts/)
-* Synchronous: No relevant documents
 * Due: Reflection 4
 
-Week 06 - Surveys
-* Readings: 
-* Asynchronous: [Playlist](./)
-	* Slides: [](./slides/)
-	* Transcripts: [](./transcripts/)
-* Synchronous: No relevant documents
+Week 06 - Measurement
+* Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62)
+* Asynchronous: [Playlist PLACEHOLDER](./)
+	* Slides: [PLACEHOLDER](./slides/)
+	* Transcripts: [PLACEHOLDER](./transcripts/)
+* Synchronous: TBD
 * Due: Reflection 5; Assignment 3
 
-Week 07 - Explore the data
-* Readings: Gutman and Goldmeier - [Ch. 5](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=93)
+
+ {% comment %}
+Week 07 - Surveys
+* Readings: 
 * Asynchronous: [Playlist](./)
 	* Slides: [](./slides/)
 	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 6
 
-Week 08 - Challenge the statistics/Ethics and pragmatism
-* Readings: Gutman and Goldmeier - [Ch. 7](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=125)
+Week 08 - Explore the data
+* Readings: Gutman and Goldmeier - [Ch. 5](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=93)
 * Asynchronous: [Playlist](./)
 	* Slides: [](./slides/)
 	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 7; Assignment 4
 
-Week 09 - Finding hidden groups/Categorization and item reduction
-* Readings: Gutman and Goldmeier - [Ch. 8](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=143)
+Week 09 - Challenge the statistics/Ethics and pragmatism
+* Readings: Gutman and Goldmeier - [Ch. 7](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=125)
 * Asynchronous: [Playlist](./)
 	* Slides: [](./slides/)
 	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 8
 
-Week 10 - Regression/Linear regression
-* Readings: Gutman and Goldmeier - [Ch. 9](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=159); HBR Guide - [Ch. 10](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=98)
+Week 10 - Finding hidden groups/Categorization and item reduction
+* Readings: Gutman and Goldmeier - [Ch. 8](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=143)
 * Asynchronous: [Playlist](./)
 	* Slides: [](./slides/)
 	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 9; Assignment 5
 
-Week 11 - Classification/Logistic regression
-* Readings: Gutman and Goldmeier - [Ch. 10](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=175)
+Week 11 - Regression/Linear regression
+* Readings: Gutman and Goldmeier - [Ch. 9](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=159); HBR Guide - [Ch. 10](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=98)
 * Asynchronous: [Playlist](./)
 	* Slides: [](./slides/)
 	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 10
 
-Week 12 - Deep learning
-* Readings: Gutman and Goldmeier - [Ch. 12](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=213); [Wolfram, S. (2023)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+Week 12 - Classification/Logistic regression
+* Readings: Gutman and Goldmeier - [Ch. 10](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=175)
 * Asynchronous: [Playlist](./)
 	* Slides: [](./slides/)
 	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 11; Assignment 6
 
-Week 13 - Pitfalls
-* Readings: Gutman and Goldmeier - [Ch. 13](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=235) and [Ch. 14](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=245)
+Week 13 - Deep learning
+* Readings: Gutman and Goldmeier - [Ch. 12](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=213); [Wolfram, S. (2023)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 * Asynchronous: [Playlist](./)
 	* Slides: [](./slides/)
 	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
 * Due: Reflection 12
 
-Week 14 - Final Presentations
+Week 14 - Pitfalls
+* Readings: Gutman and Goldmeier - [Ch. 13](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=235) and [Ch. 14](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=245)
+* Asynchronous: [Playlist](./)
+	* Slides: [](./slides/)
+	* Transcripts: [](./transcripts/)
+* Synchronous: No relevant documents
 * Due: Reflection 11; Assignment 7
+
 
 
 
