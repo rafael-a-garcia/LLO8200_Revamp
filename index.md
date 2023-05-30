@@ -41,10 +41,10 @@ Week 04 - Memorial Day/Independent Readings
 
 Week 05 - Arguing with the data/Critical multiplism
 * Readings: Gutman and Goldmeier - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=79); [Shadish 1993 (pg 18-35; starting on PDF pg 6)](./readings/Shadish 1993.pdf)
-* Asynchronous: [Playlist PLACEHOLDER](./)
-	* Slides: [PLACEHOLDER](./slides/)
-	* Transcripts: [PLACEHOLDER](./transcripts/)
-* Synchronous: TBD
+* Asynchronous: [Playlist](https://www.youtube.com/playlist?list=PLgM_PEP2Xv8ixat-_VFnmAw2g5YElNjmY)
+	* Slides: [04a - Intro to Critical Multiplism](./slides/04a - Intro to Critical Multiplism.pdf);[04b - Multiple Operationalism](./slides/04b - Multiple Operationalism.pdf)
+	* Transcripts: [04a - Intro to Critical Multiplism](./transcripts/04a - Intro to Critical Multiplism - cc.pdf); [04b - Multiple Operationalism](./transcripts/04a - Multiple Operationalism - cc.pdf)
+* Synchronous: No relevant documents
 * Due: Reflection 4
 
 Week 06 - Measurement
