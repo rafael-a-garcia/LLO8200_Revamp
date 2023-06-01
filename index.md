@@ -43,7 +43,7 @@ Week 05 - Arguing with the data/Critical multiplism
 * Readings: Gutman and Goldmeier - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=79); [Shadish 1993 (pg 18-35; starting on PDF pg 6)](./readings/Shadish 1993.pdf)
 * Asynchronous: [Playlist](https://www.youtube.com/playlist?list=PLgM_PEP2Xv8ixat-_VFnmAw2g5YElNjmY)
 	* Slides: [04a - Intro to Critical Multiplism](./slides/04a - Intro to Critical Multiplism.pdf);[04b - Multiple Operationalism](./slides/04b - Multiple Operationalism.pdf);[04c - Proxies](./slides/04c - Proxies.pdf); [04c - Proxies - Supplement: Walsh, Katz & Sechrest 2002](./readings/Walsh Katz Sechrest 2002.pdf)
-	* Transcripts: [04a - Intro to Critical Multiplism](./transcripts/04a - Intro to Critical Multiplism - cc.pdf); [04b - Multiple Operationalism](./transcripts/04b - Multiple Operationalism - cc.pdf);[04c - Proxies [FORTHCOMING]](./transcripts/04c - Proxies - cc.pdf)
+	* Transcripts: [04a - Intro to Critical Multiplism](./transcripts/04a - Intro to Critical Multiplism - cc.pdf); [04b - Multiple Operationalism](./transcripts/04b - Multiple Operationalism - cc.pdf);[04c - Proxies](./transcripts/04c - Proxies - cc.pdf)
 * Synchronous: No relevant documents
 * Due: Reflection 4
 
