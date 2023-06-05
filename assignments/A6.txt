@@ -1,0 +1,10 @@
+Assignment 6: These should be as long as they need to be (please be kind to your poor instructor).
+
+It's modeling time – 
+
+	Using multiple linear regression or multiple logistic regression (or something else discussed with instructor previously), model the relations between the Outcome/s(DV/s) and the Predictors(IVs). This will likely include multiple models that will be compared in order to assess the balance between parsimony and predictive power. 
+
+Explain how you chose the "final" model you did.
+  
+
+Assignments can be submitted as PDF, DOC, DOCX, or plain text form via 2VU.

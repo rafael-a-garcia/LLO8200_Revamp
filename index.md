@@ -152,10 +152,10 @@ Assignments can be submitted as PDF, DOC, DOCX, or plain text form.
 | [Assignment 1](./assignments/A1.txt)| Section 60 & 61: May 15 |Section 62: May 18 |
 | [Assignment 2](./assignments/A2.txt)| Section 60 & 61: May 29 |Section 62: Jun 01 |
 | [Assignment 3](./assignments/A3.txt)| Section 60 & 61: Jun 12 |Section 62: Jun 15 |
-| [Assignment 4]()| Section 60 & 61: Jun 26 |Section 62: Jun 29 |
-| [Assignment 5]()| Section 60 & 61: Jul 10 |Section 62: Jul 13 |
-| [Assignment 6]()| Section 60 & 61: Jul 24 |Section 62: Jul 27 |
-| [Assignment 7]()| Section 60 & 61: Aug 07 |Section 62: Aug 10 |
+| [Assignment 4](./assignments/A4.txt)| Section 60 & 61: Jun 26 |Section 62: Jun 29 |
+| [Assignment 5](./assignments/A5.txt)| Section 60 & 61: Jul 10 |Section 62: Jul 13 |
+| [Assignment 6](./assignments/A6.txt)| Section 60 & 61: Jul 24 |Section 62: Jul 27 |
+| [Assignment 7](./assignments/A7.txt)| Section 60 & 61: Aug 07 |Section 62: Aug 10 |
 
 
 ### Final Project Materials

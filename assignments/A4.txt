@@ -1,0 +1,13 @@
+Assignment 4: These should be as long as they need to be (please be kind to your poor instructor).
+
+Exploration (univariate) – 
+
+	Now that variables have been identified, exploration of those variables should be reported. This should include the appropriate:
+		1) Univariate plots (this means one) for each variable
+			a) Discussion of the shapes of the distributions
+			b) Identification of potential outliers
+			c) Noting the degree of “missingness”
+		2) Numerical summary statistics
+		3) What effect anything you found might have on any more complicated statistics/models
+
+Assignments can be submitted as PDF, DOC, DOCX, or plain text form via 2VU.

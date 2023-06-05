@@ -1,0 +1,12 @@
+Assignment 7: These should be as long as they need to be (please be kind to your poor instructor).
+
+Communication is key - 
+
+	Briefly, explain what you did and how it relates back to your problem. 
+
+	This needs to be scaled to the audience that you would present these findings to. 
+		- If the problem is a statistically technical one, then you would likely present to a quantitatively sophisticated audience. 
+		- If, however, the problem is more of a “boots on the ground” problem, then you may need to scale back on the quantitative focus and instead lean into the “TLDR version”. 
+
+
+Assignments can be submitted as PDF, DOC, DOCX, or plain text form via 2VU.

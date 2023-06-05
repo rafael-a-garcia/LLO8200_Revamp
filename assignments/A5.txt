@@ -1,0 +1,14 @@
+Assignment 5: These should be as long as they need to be (please be kind to your poor instructor).
+
+Exploration (bivariate+) – 
+
+	Essentially the same as the last assignment, but now with two or more variables. This could include:
+		1) Scatterplots
+		2) Multidimensional barcharts
+		3) Correlation tables
+		4) Crosstabs
+		5) Anything else you feel is relevant (but not linear or logistic regression yet)
+
+This exploration serves to identify what variables should/should not be included in the next step. No linear or logistic regression quite yet!
+
+Assignments can be submitted as PDF, DOC, DOCX, or plain text form via 2VU.
