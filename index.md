@@ -48,7 +48,7 @@ Week 05 - Arguing with the data/Critical multiplism
 * Due: Reflection 4
 
 Week 06 - Measurement
-* Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62); [Optional - Campbell & Fiske 1959](./readings/Campbell Fiske 1959.pdf); [Optional - Law, Song, & Wong 2004](./readings/Law Song Wong 2004.pdf)
+* Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62); [Optional - Campbell & Fiske 1959](./readings/Campbell Fiske 1959.pdf); [Optional - Law, Song, & Wong 2004](./readings/Law Wong Song 2004.pdf)
 * Asynchronous: [Playlist](https://www.youtube.com/playlist?list=PLgM_PEP2Xv8gHEv1tBkEUOqks2DryD3Va)
 	* Slides: [05a - Reliability and Validity](./slides/05a - Reliability and Validity.pdf);[05b - MTMM](./slides/05b - MTMM.pdf); [Reading alternate for 05c pdf pg 2-18](https://uca.edu/psychology/files/2013/08/Ch8-Sources-of-Extraneous-Variability.pdf)
 	* Transcripts: [PLACEHOLDER](./transcripts/)
