@@ -48,9 +48,9 @@ Week 05 - Arguing with the data/Critical multiplism
 * Due: Reflection 4
 
 Week 06 - Measurement
-* Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62); [Optional - Campbell & Fiske 1959](./readings/Campbell Fiske 1959.pdf)
+* Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62); [Optional - Campbell & Fiske 1959](./readings/Campbell Fiske 1959.pdf); [Optional - Law, Song, & Wong 2004](./readings/Law Song Wong 2004.pdf)
 * Asynchronous: [Playlist PLACEHOLDER](https://www.youtube.com/playlist?list=PLgM_PEP2Xv8gHEv1tBkEUOqks2DryD3Va)
-	* Slides: [PLACEHOLDER](./slides/)
+	* Slides: [05a - Reliability and Validity](./slides/05a - Reliability and Validity.pdf);[05b - MTMM](./slides/05b - MTMM.pdf);
 	* Transcripts: [PLACEHOLDER](./transcripts/)
 * Synchronous: No relevant documents before class
 * Due: Reflection 5; Assignment 3
