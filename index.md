@@ -49,7 +49,7 @@ Week 05 - Arguing with the data/Critical multiplism
 
 Week 06 - Measurement
 * Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62); [Optional - Campbell & Fiske 1959](./readings/Campbell Fiske 1959.pdf)
-* Asynchronous: [Playlist PLACEHOLDER](./)
+* Asynchronous: [Playlist PLACEHOLDER](https://www.youtube.com/playlist?list=PLgM_PEP2Xv8gHEv1tBkEUOqks2DryD3Va)
 	* Slides: [PLACEHOLDER](./slides/)
 	* Transcripts: [PLACEHOLDER](./transcripts/)
 * Synchronous: No relevant documents before class
