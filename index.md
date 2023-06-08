@@ -48,11 +48,11 @@ Week 05 - Arguing with the data/Critical multiplism
 * Due: Reflection 4
 
 Week 06 - Measurement
-* Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62)
+* Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62); [Optional - Campbell & Fiske 1959](./readings/Campbell Fiske 1959.pdf)
 * Asynchronous: [Playlist PLACEHOLDER](./)
 	* Slides: [PLACEHOLDER](./slides/)
 	* Transcripts: [PLACEHOLDER](./transcripts/)
-* Synchronous: TBD
+* Synchronous: No relevant documents before class
 * Due: Reflection 5; Assignment 3
 
 
