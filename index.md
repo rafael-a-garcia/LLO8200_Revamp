@@ -59,7 +59,7 @@ Week 07 - Surveys
 * Readings: [Power of Survey Design - Ch3](./readings/Power of Survey Design Ch3.pdf)
 * Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8hegTxzr0a9JORyo8Z1LPNG)
 	* Slides: [06a - Introduction to Survey Data](./slides/06a - Introduction to Survey Data.pdf); 
-	  06b - Working with Survey Data [codebook](./slides/) [data - labeled](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EaBDDX961HZOu-MX98sKnyMBt9qLp0BsXYKJdA7uWQI1Bg?e=KcTL1L) [data - numeric](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EYSLuHc4t4FArj0_URLAxJgBW73YzKJxVMrRT1kZ-e3HkA?e=ccPZA7) [full data-labeled](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EQfEWgMG4YdEgEykkpdEUFMBjj5SCf-qtf035FlTz7rvNg?e=WhEwXJ) [full data-numeric](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EREcTkEuky5OiKLdcdpuTFAB8oayPQ7tZnXVfShx3pQanw?e=YPai2v)
+	  06b - Working with Survey Data [[codebook]](./slides/) [[data - labeled]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EaBDDX961HZOu-MX98sKnyMBt9qLp0BsXYKJdA7uWQI1Bg?e=KcTL1L) [data - numeric](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EYSLuHc4t4FArj0_URLAxJgBW73YzKJxVMrRT1kZ-e3HkA?e=ccPZA7) [full data-labeled](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EQfEWgMG4YdEgEykkpdEUFMBjj5SCf-qtf035FlTz7rvNg?e=WhEwXJ) [full data-numeric](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EREcTkEuky5OiKLdcdpuTFAB8oayPQ7tZnXVfShx3pQanw?e=YPai2v)
 	* Transcripts: [PLACEHOLDER](./transcripts/)
 * Synchronous: [TBD - Placeholder]()
 * Due: Reflection 6
