@@ -52,7 +52,7 @@ Week 06 - Measurement
 * Asynchronous: [Playlist](https://www.youtube.com/playlist?list=PLgM_PEP2Xv8gHEv1tBkEUOqks2DryD3Va)
 	* Slides: [05a - Reliability and Validity](./slides/05a - Reliability and Validity.pdf);[05b - MTMM](./slides/05b - MTMM.pdf); [05c - Variability and Error (Read pg 2-18)](https://uca.edu/psychology/files/2013/08/Ch8-Sources-of-Extraneous-Variability.pdf)
 	* Transcripts: [PLACEHOLDER](./transcripts/)
-* Synchronous: [GSS 2002 - Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Ecum_y9KgApEhUWWilXjgsoBlhD-XtB3gBUWaufQl1cONg?e=3w5hmY); [GSS 2002 - XLSX](./data/GSS_2002.xlsx);[Codebook](./data/GSS_2002_subset.pdf)
+* Synchronous: [GSS 2002 - Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Ecum_y9KgApEhUWWilXjgsoBlhD-XtB3gBUWaufQl1cONg?e=3w5hmY); [GSS 2002 - XLSX](./data/);[Codebook](./data/GSS_2002_subset.pdf)
 * Due: Reflection 5; Assignment 3
 
 Week 07 - Surveys
