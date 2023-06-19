@@ -60,19 +60,19 @@ Week 07 - Surveys
 * Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8hegTxzr0a9JORyo8Z1LPNG)
 	* Slides: [06a - Introduction to Survey Data](./slides/06a - Introduction to Survey Data.pdf); 06b - Working with Survey Data [[codebook]](./data/gss_2022_subset.pdf) [[data - labeled]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EaBDDX961HZOu-MX98sKnyMBt9qLp0BsXYKJdA7uWQI1Bg?e=KcTL1L) [[data - numeric]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EYSLuHc4t4FArj0_URLAxJgBW73YzKJxVMrRT1kZ-e3HkA?e=ccPZA7) [[full data-labeled]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EQfEWgMG4YdEgEykkpdEUFMBjj5SCf-qtf035FlTz7rvNg?e=WhEwXJ) [[full data-numeric]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EREcTkEuky5OiKLdcdpuTFAB8oayPQ7tZnXVfShx3pQanw?e=YPai2v)
 	* Transcripts: [PLACEHOLDER](./transcripts/)
-* Synchronous: [Tentative Placeholder]
+* Synchronous: [GSS 2002 verbose - Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EcAJpGl8wfxArvuE-mr_118BB5gwnrbPPGhHlwxq0Jb8qg?e=GewjHd)
 * Due: Reflection 6
 
- {% comment %}
 Week 08 - Explore the data
 * Readings: Gutman and Goldmeier - [Ch. 5](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=93)
-* Asynchronous: [Playlist](./)
-	* Slides: [](./slides/)
-	* Transcripts: [](./transcripts/)
-* Synchronous: No relevant documents
+* Asynchronous: [PLACEHOLDER](./)
+	* Slides: [PLACEHOLDER](./slides/)
+	* Transcripts: [PLACEHOLDER](./transcripts/)
+* Synchronous: [TENTATIVE PLACEHOLDER]()
 * Due: Reflection 7; Assignment 4
 
-Week 09 - Challenge the statistics/Ethics and pragmatism
+ {% comment %}
+ Week 09 - Challenge the statistics/Ethics and pragmatism
 * Readings: Gutman and Goldmeier - [Ch. 7](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=125)
 * Asynchronous: [Playlist](./)
 	* Slides: [](./slides/)
