@@ -64,7 +64,8 @@ Week 07 - Surveys
 * Due: Reflection 6
 
 Week 08 - Explore the data
-* Readings: Gutman and Goldmeier - [Ch. 5](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=93)
+* Readings: Gutman and Goldmeier - [Ch. 5](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=93); [Behrens 1997 - can skip "Putting It All Together: A Reexamination of the
+Paap and Johansen Data" p 146-154](./readings/Behrens 1997.pdf)
 * Asynchronous: [PLACEHOLDER](./)
 	* Slides: [PLACEHOLDER](./slides/)
 	* Transcripts: [PLACEHOLDER](./transcripts/)
