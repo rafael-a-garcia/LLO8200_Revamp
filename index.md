@@ -51,7 +51,6 @@ Week 06 - Measurement
 * Readings: HBR Guide - [Ch. 4](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=48) and [Ch. 6](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=62); [Optional - Campbell & Fiske 1959](./readings/Campbell Fiske 1959.pdf); [Optional - Law, Song, & Wong 2004](./readings/Law Wong Song 2004.pdf)
 * Asynchronous: [Playlist](https://www.youtube.com/playlist?list=PLgM_PEP2Xv8gHEv1tBkEUOqks2DryD3Va)
 	* Slides: [05a - Reliability and Validity](./slides/05a - Reliability and Validity.pdf);[05b - MTMM](./slides/05b - MTMM.pdf); [05c - Variability and Error (Read pg 2-18)](https://uca.edu/psychology/files/2013/08/Ch8-Sources-of-Extraneous-Variability.pdf)
-	* Transcripts: [PLACEHOLDER](./transcripts/)
 * Synchronous: [GSS 2002 - Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Ecum_y9KgApEhUWWilXjgsoBlhD-XtB3gBUWaufQl1cONg?e=3w5hmY); [GSS 2002 - XLSX](./data/);[Codebook](./data/GSS_2002_subset.pdf)
 * Due: Reflection 5; Assignment 3
 
@@ -59,7 +58,6 @@ Week 07 - Surveys
 * Readings: [Power of Survey Design - Ch3](./readings/Power of Survey Design Ch3.pdf)
 * Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8hegTxzr0a9JORyo8Z1LPNG)
 	* Slides: [06a - Introduction to Survey Data](./slides/06a - Introduction to Survey Data.pdf); 06b - Working with Survey Data [[codebook]](./data/gss_2022_subset.pdf) [[data - labeled]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EaBDDX961HZOu-MX98sKnyMBt9qLp0BsXYKJdA7uWQI1Bg?e=KcTL1L) [[data - numeric]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EYSLuHc4t4FArj0_URLAxJgBW73YzKJxVMrRT1kZ-e3HkA?e=ccPZA7) [[full data-labeled]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EQfEWgMG4YdEgEykkpdEUFMBjj5SCf-qtf035FlTz7rvNg?e=WhEwXJ) [[full data-numeric]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/w_doyle_vanderbilt_edu/EREcTkEuky5OiKLdcdpuTFAB8oayPQ7tZnXVfShx3pQanw?e=YPai2v)
-	* Transcripts: [PLACEHOLDER](./transcripts/)
 * Synchronous: [GSS 2002 verbose - Office 365](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EcAJpGl8wfxArvuE-mr_118BB5gwnrbPPGhHlwxq0Jb8qg?e=GewjHd)
 * Due: Reflection 6
 
@@ -68,18 +66,17 @@ Week 08 - Explore the data
 Paap and Johansen Data" p 146-154](./readings/Behrens 1997.pdf)
 * Asynchronous: [Optional - Example](https://youtu.be/ykvxTKyYxR0)
 	* Slides: [Optional - Example](./slides/07- Arena.pdf); [Optional - Example (follow up)](./readings/ConclavePoster2014.pdf)
-	* Transcripts: [PLACEHOLDER](./transcripts/)
 * Synchronous: [[In-class Data 1]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EeTCsevOUQJOpgNI4vzx8o8BF9Qf8daCeCawLcqXrlczdA?e=R0eBOg) [[In class Data 2]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVx45oBTepFJhclQIRwmsqUB6jklhRTmxr1kBH-5OLXRyA?e=Y258pL) [[Data 2 Codebook]](./data/ELS0-Codebook.pdf)
 * Due: Reflection 7; Assignment 4
 
- {% comment %}
  Week 09 - Challenge the statistics/Ethics and pragmatism
 * Readings: Gutman and Goldmeier - [Ch. 7](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=125)
-* Asynchronous: [Playlist](./)
-	* Slides: [](./slides/)
-	* Transcripts: [](./transcripts/)
-* Synchronous: No relevant documents
+* Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8iiJqd1XxT3eiKUgXyH4JKo)
+	* Slides: [08 - Challenge the Statistics](./slides/08 - Challenge the Statistics.pdf); 08 - Challenge the Statistics [[Dataset]](./data/gss_income_happiness.csv) [[Codebook]](./data/gss_codebook_income_happiness.pdf)
+* Synchronous: [TENTATIVE PLACEHOLDER]()
 * Due: Reflection 8
+
+ {% comment %}
 
 Week 10 - Finding hidden groups/Categorization and item reduction
 * Readings: Gutman and Goldmeier - [Ch. 8](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=143)
