@@ -67,7 +67,7 @@ Week 08 - Explore the data
 Paap and Johansen Data" p 146-154](./readings/Behrens 1997.pdf)
 * Asynchronous: [Optional - Example](https://youtu.be/ykvxTKyYxR0)
 	* Slides: [Optional - Example](./slides/07- Arena.pdf); [Optional - Example (follow up)](./readings/ConclavePoster2014.pdf)
-* Synchronous: [TENTATIVE PLACEHOLDER]()
+* Synchronous: [[In-class Data 1]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EeTCsevOUQJOpgNI4vzx8o8BF9Qf8daCeCawLcqXrlczdA?e=R0eBOg) [[In class Data 2]](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVx45oBTepFJhclQIRwmsqUB6jklhRTmxr1kBH-5OLXRyA?e=Y258pL) [[Data 2 Codebook]](./data/ELS0-Codebook.pdf)
 * Due: Reflection 7; Assignment 4
 
  Week 09 - Challenge the statistics/Ethics and pragmatism
