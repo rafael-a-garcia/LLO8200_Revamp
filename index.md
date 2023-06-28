@@ -72,7 +72,7 @@ Paap and Johansen Data" p 146-154](./readings/Behrens 1997.pdf)
  Week 09 - Challenge the statistics/Ethics and pragmatism
 * Readings: Gutman and Goldmeier - [Ch. 7](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=125)
 * Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8iiJqd1XxT3eiKUgXyH4JKo)
-	* Slides: [08 - Challenge the Statistics](./slides/08 - Challenge the Statistics.pdf); 08 - Challenge the Statistics [[Dataset]](./data/gss_income_happiness.csv) [[Codebook]](./data/gss_codebook_income_happiness.pdf)
+	* Slides: [08 - Challenge the Statistics](./slides/08 - Challenge the Statistics.pdf); 08 - Challenge the Statistics [[Dataset]](./data/gss_income_happiness.xlsx) [[Codebook]](./data/gss_codebook_income_happiness.pdf)
 * Synchronous: [TENTATIVE PLACEHOLDER]()
 * Due: Reflection 8
 
