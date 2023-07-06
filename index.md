@@ -80,10 +80,9 @@ Paap and Johansen Data" p 146-154](./readings/Behrens 1997.pdf)
 
 Week 10 - Finding hidden groups/Categorization and item reduction
 * Readings: Gutman and Goldmeier - [Ch. 8](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=143)
-* Asynchronous: [Playlist](./)
-	* Slides: [](./slides/)
-	* Transcripts: [](./transcripts/)
-* Synchronous: No relevant documents
+* Asynchronous: [Playlist](https://www.youtube.com/playlist?list=PLgM_PEP2Xv8jKJ4zESFo5hmh30F5rulwP)
+	* Slides: [09a - Finding Groups](./slides/09 - Finding Groups.pdf); [09b - Dairy Paper](./readings/Merlino et al 2022.pdf); [09c - Workplace Paper](./readings/Namin et al 2022.pdf)
+* Synchronous: [e-Learning paper for discussion](./readings/Ozturk et al 2022.pdf)
 * Due: Reflection 9; Assignment 5
 
 Week 11 - Regression/Linear regression
