@@ -76,8 +76,6 @@ Paap and Johansen Data" p 146-154](./readings/Behrens 1997.pdf)
 * Synchronous: [TENTATIVE PLACEHOLDER]()
 * Due: Reflection 8
 
- {% comment %}
-
 Week 10 - Finding hidden groups/Categorization and item reduction
 * Readings: Gutman and Goldmeier - [Ch. 8](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=143)
 * Asynchronous: [Playlist](https://www.youtube.com/playlist?list=PLgM_PEP2Xv8jKJ4zESFo5hmh30F5rulwP)
@@ -85,6 +83,8 @@ Week 10 - Finding hidden groups/Categorization and item reduction
 * Synchronous: [e-Learning paper for discussion](./readings/Ozturk et al 2022.pdf)
 * Due: Reflection 9; Assignment 5
 
+
+ {% comment %}
 Week 11 - Regression/Linear regression
 * Readings: Gutman and Goldmeier - [Ch. 9](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=159); HBR Guide - [Ch. 10](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=98)
 * Asynchronous: [Playlist](./)
