@@ -84,22 +84,21 @@ Week 10 - Finding hidden groups/Categorization and item reduction
 * Due: Reflection 9; Assignment 5
 
 
- {% comment %}
 Week 11 - Regression/Linear regression
 * Readings: Gutman and Goldmeier - [Ch. 9](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=159); HBR Guide - [Ch. 10](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=5180055&ppg=98)
-* Asynchronous: [Playlist](./)
-	* Slides: [](./slides/)
-	* Transcripts: [](./transcripts/)
-* Synchronous: No relevant documents
+* Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8hMQdUQYPTRXyoYrJtBTt8C)
+	* Slides: [10a - Regression Refresher](./slides/10a - Regression Refresher.pdf); [10b - Regression Refresher 2](./slides/10b - Regression Refresher 2.pdf); [10c - Applied Example](./slides/10c - Applied Example.pdf) + [10c -Paper](./readings/Ursu 2018.pdf) 
+* Synchronous: FORTHCOMING
 * Due: Reflection 10
 
-Week 12 - Classification/Logistic regression
+ {% comment %}
+ Week 12 - Classification/Logistic regression
 * Readings: Gutman and Goldmeier - [Ch. 10](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=175)
 * Asynchronous: [Playlist](./)
 	* Slides: [](./slides/)
 	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
-* Due: Reflection 11; Assignment 6
+* Due: Reflection 11
 
 Week 13 - Deep learning
 * Readings: Gutman and Goldmeier - [Ch. 12](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=213); [Wolfram, S. (2023)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
@@ -107,7 +106,7 @@ Week 13 - Deep learning
 	* Slides: [](./slides/)
 	* Transcripts: [](./transcripts/)
 * Synchronous: No relevant documents
-* Due: Reflection 12
+* Due: Reflection 12; Assignment 6
 
 Week 14 - Pitfalls
 * Readings: Gutman and Goldmeier - [Ch. 13](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=235) and [Ch. 14](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=245)
@@ -133,8 +132,12 @@ Week 14 - Pitfalls
 
 {% comment %}
 [All data files](./datasets/datasets_files.zip)\
-{% endcomment %}
+
 <!--- These need to be added to the dataset repository next term --->
+
+
+
+{% endcomment %}
 
 ### Assignments
 Each assignment should be uploaded to the LMS _before_ we meet for live session on the given due date. Even though assignments will be done as a group, everyone will need to submit their own assignment.
@@ -150,7 +153,7 @@ Assignments can be submitted as PDF, DOC, DOCX, or plain text form.
 | [Assignment 3](./assignments/A3.txt)| Section 60 & 61: Jun 12 |Section 62: Jun 15 |
 | [Assignment 4](./assignments/A4.txt)| Section 60 & 61: Jun 26 |Section 62: Jun 29 |
 | [Assignment 5](./assignments/A5.txt)| Section 60 & 61: Jul 10 |Section 62: Jul 13 |
-| [Assignment 6](./assignments/A6.txt)| Section 60 & 61: Jul 24 |Section 62: Jul 27 |
+| [Assignment 6](./assignments/A6.txt)| Section 60 & 61: Jul 31 |Section 62: Aug 03 |
 | [Assignment 7](./assignments/A7.txt)| Section 60 & 61: Aug 07 |Section 62: Aug 10 |
 
 
