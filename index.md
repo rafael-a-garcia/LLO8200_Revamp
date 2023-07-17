@@ -144,7 +144,6 @@ Each assignment should be uploaded to the LMS _before_ we meet for live session 
 
 Assignments can be submitted as PDF, DOC, DOCX, or plain text form. 
 
-[SPECIFIC REQUIREMENTS FORTHCOMING]
 
 | File(s)      | Due Date            |                     |
 |:-------------|:--------------------|:--------------------|
