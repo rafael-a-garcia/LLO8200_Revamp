@@ -158,9 +158,9 @@ Assignments can be submitted as PDF, DOC, DOCX, or plain text form.
 
 
 ### Final Project Materials
-* [Final Project Expectations - PLACEHOLDER]() 
+* [Final Project Expectations](./Final Project Expectations.pdf) 
 * [Final Project Rubrics- PLACEHOLDER]()
 
-**Final Presentations will be in class on Aug 7th (sections 60 & 61) and Aug 10th (section 62).**
+**Final Presentations will be submitted online on Aug 7th (sections 60 & 61) and Aug 10th (section 62).**
 
 **Final Papers will be due within 24 hours of Presentations**
