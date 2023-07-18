@@ -89,6 +89,8 @@ Week 11 - Regression/Linear regression
 * Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8hMQdUQYPTRXyoYrJtBTt8C)
 	* Slides: [10a - Regression Refresher](./slides/10a - Regression Refresher.pdf); [10b - Regression Refresher 2](./slides/10b - Regression Refresher 2.pdf); [10c - Applied Example](./slides/10c - Applied Example.pdf) + [10c -Paper](./readings/Ursu 2018.pdf) 
 * Synchronous: [Selecting Models](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EawQyj1LP0dNgE9b5i_ZWnUBChyyaKIHgvncCVVEsKtt-Q?e=8auAFt); [Split-Sample Ex](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Eb62xeyxvjxPk_tePMOkTXQBg4f7CGFmwExc6ZF5L_lWmA?e=pTNIHh)
+
+* In-class files: [Selecting Models - Section 60](./data/KidneyDonations section 60.xlsx); [Selecting Models - Section 61](./data/KidneyDonations section 61.xlsx); [Split-sample Ex - Sections 60 & 61](./data/SplitSampleRegression section 6061.xlsx)
 * Due: Reflection 10
 
  {% comment %}
@@ -128,7 +130,7 @@ Week 14 - Pitfalls
 
 [Framingham - data on cardiovascular disease](./data/framingham.zip)
 
-[IPEDS - institutional variables in post secondary eduction](./data/IPEDs.zip)
+[IPEDS - institutional variables in post secondary education](./data/IPEDs.zip)
 
 {% comment %}
 [All data files](./datasets/datasets_files.zip)\
