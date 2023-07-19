@@ -93,15 +93,14 @@ Week 11 - Regression/Linear regression
 * Post-class files: [Selecting Models - Section 60](./data/KidneyDonations section 60.xlsx); [Selecting Models - Section 61](./data/KidneyDonations section 61.xlsx); [Split-sample Ex - Sections 60 & 61](./data/SplitSampleRegression section 6061.xlsx)
 * Due: Reflection 10
 
- {% comment %}
  Week 12 - Classification/Logistic regression
 * Readings: Gutman and Goldmeier - [Ch. 10](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=175)
-* Asynchronous: [Playlist](./)
-	* Slides: [](./slides/)
-	* Transcripts: [](./transcripts/)
-* Synchronous: No relevant documents
+* Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8hz3WaJ2_7JkXAV7_inQniZ)
+	* Slides: [Slides (all)](./slides/11 - Classifiers.pdf)
+* Synchronous: TBD - There will be in class examples
 * Due: Reflection 11
 
+ {% comment %}
 Week 13 - Deep learning
 * Readings: Gutman and Goldmeier - [Ch. 12](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=213); [Wolfram, S. (2023)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 * Asynchronous: [Playlist](./)
