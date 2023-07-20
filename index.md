@@ -96,7 +96,7 @@ Week 11 - Regression/Linear regression
  Week 12 - Classification/Logistic regression
 * Readings: Gutman and Goldmeier - [Ch. 10](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=175)
 * Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8hz3WaJ2_7JkXAV7_inQniZ)
-	* Slides: [Slides (all)](./slides/11 - Classifiers.pdf)
+	* Slides: [Slides (all)](./slides/11- Classifiers.pdf)
 * Synchronous: TBD - There will be in class examples
 * Due: Reflection 11
 
