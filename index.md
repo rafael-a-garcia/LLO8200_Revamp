@@ -98,7 +98,7 @@ Week 11 - Regression/Linear regression
 * Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8hz3WaJ2_7JkXAV7_inQniZ)
 	* Slides: [Slides (all)](./slides/11- Classifiers.pdf)
 * Synchronous: [Affairs dataset](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EWbsKqLoPI1Ep228Yw8gRMUBUtO7inW_eDGGb6ru1h6kYw?e=fD26NW) [Logistic Regression Slides Sync](./slides/Logistic Regression Sync Affairs.pdf)
-    * [Logistic Regression Calculator](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Ec2aOEoUkKRPi0d5a0Q0QYEB9oRkTlEc_Ny2w60ftaNbdQ?e=dFOPv3)
+    * [Logistic Regression Calculator](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Ec2aOEoUkKRPi0d5a0Q0QYEB9oRkTlEc_Ny2w60ftaNbdQ?e=gkoZU7)
 * Due: Reflection 11
 
  {% comment %}
