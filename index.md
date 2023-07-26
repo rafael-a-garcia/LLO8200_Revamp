@@ -102,16 +102,15 @@ Week 11 - Regression/Linear regression
 * Post-class files: [Affairs with notes - 60](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVfJDmRwvZxPmBd6oJ5RWwoBSsUVxxfXY2v7yvG8fTkWuw?e=6L9h51)
 * Due: Reflection 11
 
- {% comment %}
 Week 13 - Deep learning
 * Readings: Gutman and Goldmeier - [Ch. 12](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=213); [Wolfram, S. (2023)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
-* Asynchronous: [Playlist](./)
-	* Slides: [](./slides/)
-	* Transcripts: [](./transcripts/)
-* Synchronous: No relevant documents
+* Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8jKyCysjD75cEh2hFNxHlm8)
+	* Slides: [All](./slides/12 - Deep Learning.pdf) [Khan Akram Usman 2020](./readings/Khan Akram Usman 2020.pdf)
+* Synchronous: TBD
 * Due: Reflection 12; Assignment 6
 
-Week 14 - Pitfalls
+ {% comment %}
+ Week 14 - Pitfalls
 * Readings: Gutman and Goldmeier - [Ch. 13](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=235) and [Ch. 14](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=245)
 * Asynchronous: [Playlist](./)
 	* Slides: [](./slides/)
