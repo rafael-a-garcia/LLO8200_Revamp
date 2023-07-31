@@ -99,7 +99,7 @@ Week 11 - Regression/Linear regression
 	* Slides: [Slides (all)](./slides/11- Classifiers.pdf)
 * Synchronous: [Affairs dataset](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EWbsKqLoPI1Ep228Yw8gRMUBUtO7inW_eDGGb6ru1h6kYw?e=fD26NW) [Logistic Regression Slides Sync](./slides/Logistic Regression Sync Affairs.pdf)
     * [Logistic Regression Calculator](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/Ec2aOEoUkKRPi0d5a0Q0QYEB9oRkTlEc_Ny2w60ftaNbdQ?e=gkoZU7)
-* Post-class files: [Affairs with notes - 60](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVfJDmRwvZxPmBd6oJ5RWwoBSsUVxxfXY2v7yvG8fTkWuw?e=6L9h51)
+* Post-class files: [Affairs with notes - 60](https://vanderbilt365-my.sharepoint.com/:x:/g/personal/rafael_garcia_vanderbilt_edu/EVfJDmRwvZxPmBd6oJ5RWwoBSsUVxxfXY2v7yvG8fTkWuw?e=TEioBb)
 * Due: Reflection 11
 
 Week 13 - Deep learning
