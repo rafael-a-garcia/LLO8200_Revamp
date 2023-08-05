@@ -109,16 +109,17 @@ Week 13 - Deep learning
 * Synchronous: TBD
 * Due: Reflection 12; Assignment 6
 
- {% comment %}
+
  Week 14 - Pitfalls
 * Readings: Gutman and Goldmeier - [Ch. 13](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=235) and [Ch. 14](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=6561823&ppg=245)
-* Asynchronous: [Playlist](./)
-	* Slides: [](./slides/)
-	* Transcripts: [](./transcripts/)
+* Asynchronous: [Playlist](https://youtube.com/playlist?list=PLgM_PEP2Xv8gkgjRRh_Jr0al4bmyTXxxJ)
+	* Slides: [13a - Pitfalls in Data Analytics](./slides/13a - Pitfalls in Data Analytics.pdf); [13b - Pitfalls in Predictive Analytics](./slides/13b - Pitfalls in Predictive Analytics.pdf); [13c - Pitfalls_ Project Problems](./slides/13c - Pitfalls_ Project Problems.pdf) 
 * Synchronous: No relevant documents
-* Due: Reflection 11; Assignment 7
+* Due: Reflection 13; Assignment 7
 
+* Reflection 14 due Aug 11th End of day
 
+ {% comment %}
 
 
 {% endcomment %}
@@ -160,8 +161,8 @@ Assignments can be submitted as PDF, DOC, DOCX, or plain text form.
 
 ### Final Project Materials
 * [Final Project Expectations](./Final Project Expectations.pdf) 
-* [Final Project Rubrics- PLACEHOLDER]()
+
 
 **Final Presentations will be submitted online on Aug 7th (sections 60 & 61) and Aug 10th (section 62).**
 
-**Final Papers will be due within 24 hours of Presentations**
+**Final Papers will be due within 24 hours of Presentations (End of day)**
